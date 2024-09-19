@@ -1,0 +1,49 @@
+body{
+    background-color: crimson;
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    
+}
+
+button{
+    background-color: rgb(37, 37, 212);
+    font-family: "New Amsterdam", sans-serif;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    margin-bottom: 90px;
+    
+    
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 80%;
+}
+
+.tirano{
+    height: 500px;
+}
+
+h1{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: 150px;
+    color: rgb(231, 219, 204);
+}
